@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlayerAnimateSprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlayerAnimateSprite",
+  "parent":{
+    "name":"PlayerGeneral",
+    "path":"folders/Scripts/PlayerGeneral.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
